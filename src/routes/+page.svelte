@@ -17,7 +17,7 @@
         const result = await response.json();
 
         if (result.status == 'success') {
-            msg = `http://localhost:5173/${result.code}`;
+            msg = `shorti-chi.vercel.app/${result.code}`;
             code = '';
             link = '';
         } else {
