@@ -1,2 +1,2 @@
 # INFO 
-Made this in a few hours while learning sveltekit
+Made this while learning sveltekit
